@@ -1,10 +1,10 @@
 ---
-title: Xanthan home
+title: Hölderlin's Madness home
 layout: base
 date: 2024-12-02
 ---
 
-# Welcome to Xanthan
+# Hölderlin's Madness
 
 {% include figure.html
   class="right"
