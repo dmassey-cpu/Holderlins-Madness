@@ -9,9 +9,8 @@ date: 2024-12-02
 {% include figure.html
   class="right"
   width="33%"
-  caption="Xanthan chemical structure"
-  image-path="/assets/images/Xanthan.svg"
-  source-url="https://commons.wikimedia.org/wiki/File:Xanthan.svg"
+  caption="1792 portrait of Friedrich Hölderlin by Franz Karl Hiemer"
+  image-path="/assets/images/friedrich-holderlin-portrait-colorized-pencil-drawing-by-franz-karl-hiemer-1792.jpg"
 %}
 
 Xanthan is a simple website template that makes it easy to share humanities work online in an open and sustainable way. Your digital projects can be hosted for free, always accessible, easy to update, and remain available until you decide otherwise.
