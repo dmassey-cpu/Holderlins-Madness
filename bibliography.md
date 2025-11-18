@@ -5,22 +5,18 @@ layout: base
 
 # Bibliography
 
-- Anderson, Mark J. ***Virtual Heritage: Designing Immersive Experiences for Public History***. Tucson: Sonoran Desert Press, 2019.
+Primary Sources:
+- Hellingrath, Norbert von. Hölderlin. Hugo Bruckmann Verlag, 1922.
+- Hölderlin, Friedrich. Essays and Letters. Edited and translated by Jeremy Adler and Charlie Louth. Penguin Books, 2009.
+- --. Hyperion and Selected Poems. Edited by Eric L. Santner. Translated by Willard R. Trask. Continuum, 1990.
+- --. Selected Poems and Fragments. Edited by Jeremy Adler. Translated by Michael Hamburger. Penguin Books, 1998.
+- Lange-Eichbaum, Wilhelm. Hölderlin; eine Pathographie. Stuttgart, Germany, 1909.
+- Waiblinger, Wilhelm, and Hermann Hesse. We Are Like Fire: Waiblinger and Hesse on Hölderlin, edited and translated by Eric Miller. ELS Editions, 2007.
 
-- Appler, Jane, and Robert L. DeLeon. “Community Archives and Borderlands Memory Work: Rethinking Participation in the Digital Age.” *Public History Quarterly* 47, no. 3 (2021): 233–259.
-
-- Castillo, Elena. “Mapping Migration: GIS as a Tool for Storytelling in the U.S. Southwest.” *Journal of Digital Humanities Methods* 8, no. 1 (2020): 15–34.
-
-- Gonzalez, Maria P. ***Digital Storytelling in Community Contexts: Practices from the U.S.–Mexico Border***. Albuquerque: High Mesa University Press, 2022.
-
-- Hwang, Daniel, and Lisa Moreno. “Reconstructing Place: Photogrammetry and 3D Modeling for Local History Museums.” In *Digital Heritage and the Public*, edited by S. Karim and A. Velasquez, 112–134. Austin: Western Humanities Collaborative, 2023.
-
-- Johnson, Lauren, and Emily Carter. “Metadata for the People: Participatory Cataloging in Community Archives.” *Archivaria* 92 (2021): 77–101.
-
-- Kiser, Thomas W. ***Humanistic Computing: Ethical Design for the Digital Humanities***. Chicago: Lakeshore Academic Press, 2018.
-
-- Moreno, Pilar. “Digitizing Memory: Oral Histories and the Politics of Representation in the Southwest.” *American Studies Review* 65, no. 4 (2020): 421–440.
-
-- Rogers, Matthew, and Cynthia Lee. “Pedagogy in the Virtual Museum: Digital Literacy for History Students.” *Teaching History with Technology* 14, no. 2 (2022): 55–73.
-
-- Tran, Michael, and Hannah Ruiz. ***Borderlands Data: Methods for Visualizing Regional History***. Santa Fe: Southwest Humanities Institute Publications, 2021.
+Secondary Sources: 
+- Constantine, David. Hölderlin. Clarendon Press, 1988.
+- Engstrom, Eric J. Clinical Psychiatry in Imperial Germany: A History of Psychiatric Practice. Cornell University Press, 2004.
+- Goldberg, Ann. Sex, Religion, and the Making of Modern Madness: The Eberbach Asylum and German Society, 1815-1849. Oxford University Press, 1999.
+- Savage, Robert, ed. Hölderlin After the Catastrophe: Heidegger, Adorno, Brecht. Camden House, 2008.
+- Sheehan, James J. German History, 1770-1866. Oxford University Press, 1990.
+- Shorter, Edward, and Max Fink. The Madness of Fear: A History of Catatonia. Oxford University Press, 2018.
