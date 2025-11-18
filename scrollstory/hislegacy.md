@@ -17,7 +17,6 @@ tags:
 
 # Hölderlin as a Madman
 After his 1807 discharge from the Tübingen University asylum, Hölderlin began living under the care of his admirer, the carpenter Ernst Zimmer. Zimmer housed the poet in a riverside tower that the carpenter had previously rented out to students of the local Tübingen University. The poet began to become something of a local attraction to the residents of the academic town. Students and admirers came to the riverfront tower that Hölderlin lived in to see the poet in his condition of madness. Some would ask him to write them poems as gifts, and he sometimes obliged. The writer Wilhelm Waiblinger was one such visitor, seeing Hölderlin often enough to get to know him. He wrote the most detailed initial account and analysis of Hölderlin’s madness, which he completed in 1828. Waiblinger believed that he could perceive the psychological basis for Hölderlin’s madness in his character itself: “You could stretch a point and locate his destiny in his unhappily fine spiritual organization. At length, under the pressure of  all too many disillusionments, malign events and melancholy convergences, it imploded.” 
-
 [^note5]: Wilhelm Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” in We Are Like Fire: Waiblinger and Hesse on Hölderlin, ed. and trans. Eric Miller (ELS Editions, 2007), p. 127.
 
 {% include figure.html 
