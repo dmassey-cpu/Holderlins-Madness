@@ -5,7 +5,7 @@ layout: base
 date: 2025-07-21
 thumbnail: image-path="scrollstory/images/holderlin-tower.jpg"
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
-header-image: image-path="scrollstory/images/holderlin-tower.jpg"
+header-image: "scrollstory/images/holderlin-tower.jpg"
 header-title: holderlin-tower.jpg
 header-position: 0px
 toc-section: piano
@@ -20,7 +20,7 @@ Hopefully we see two images appear.
 
 {% include figure.html 
 class="center" 
-width="48%" 
+width="80%" 
 caption="This is the caption" 
 image-path="scrollstory/images/holderlin-tower.jpg" 
 %}
