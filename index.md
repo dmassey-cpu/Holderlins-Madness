@@ -5,6 +5,7 @@ date: 2024-12-02
 ---
 
 # Poetry and Madness
+By Davis Diego Massey, winter 2025
 
 {% include figure.html
   class="right"
