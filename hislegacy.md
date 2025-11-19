@@ -1,5 +1,5 @@
 ---
-title: Hölderlin's Tower, Tübingen
+title: Hölderlin's Legacy
 author: Photography
 layout: base
 date: 2025-07-21
