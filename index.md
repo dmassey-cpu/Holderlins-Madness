@@ -32,5 +32,3 @@ Until his death in 1843, Hölderlin continued to write poetry which accorded wit
 [^note1]:  James J. Sheehan, German History, 1770-1866 (Oxford University Press, 1990), pp. 35-45.
 [^note2]: Friedrich Hölderlin to Susette Gontard, November 1799, in Friedrich Hölderlin, Essays and Letters, ed. and trans. Jeremy Adler and Charlie Louth (Penguin Books, 2009), p. 214.
 [^note3]: David Constantine, Hölderlin (Clarendon Press, 1988), pp. 268-272.
-
-If you're brand new, jump into our set of guides and [get started](guides/getting-started)!
