@@ -14,7 +14,7 @@ placename: Hölderlin's Tower, Tübingen
 tags:
   - music
 ---
-# Hölderlin as a Symbol
+# Hölderlin in Retrospect 
 The reception of Hölderlin's work was conditioned by the rise of bureaucracy, commerce, governance based on sovereignty over a territory rather than personal obligations, the rule of law, and nationalism in German-speaking Europe. By the time that the Kingdom of Prussia headed the formation of a German national state in 1871, the Holy Roman Empire of Hölderlin's life and the imagined Germany of his hopes seemed distant and cloudy. As a professional middle class found careers in the bureaucracy, they began to enforce their own expectations of behavior on people and evaluate their quality according to their conformity to these mores of self-responsibility and respectability. They first subjected Hölderlin's legacy to the scrutiny of middle class morality during his lifetime.
 
 # Hölderlin as a Madman
@@ -118,7 +118,9 @@ Hellingrath set to work compiling, dating, and publishing the poet’s work to r
 
 
 ## Hölderlin as a Prophet
-After salvaging Hölderlin’s late works and justifying them in nationalist terms for the German public, Norbert von Hellingrath succeeded at re-introducing the poet into intellectual discourse. Poets and philosophers began to draw on Hölderlin as an inspiration for their own attempts at addressing the problems they perceived in German society. The Austrian Expressionist poet Georg Trakl, famous for his apocalyptic descriptions of World War I, looked on Hölderlin as a great innovator in experimenting with poetic language. In retrospect, the poet appeared as a forefather of literary modernism. Philosophers on both the political left and political right estimated Hölderlin as a prophet of their ideals. The nationalist philosopher Martin Heidegger spent the latter half of World War II lecturing on Hölderlin’s poems. Jewish communist intellectuals like Walter Benjamin and Theodor Adorno took Hölderlin’s love of nature and attempts at expressing natural scenes in poetic language as inspirations for their own critiques of modern capitalist civilization.
+After salvaging Hölderlin’s late works and justifying them in nationalist terms for the German public, Norbert von Hellingrath succeeded at re-introducing the poet into intellectual discourse. Poets and philosophers began to draw on Hölderlin as an inspiration for their own attempts at addressing the problems they perceived in German society. The Austrian Expressionist poet Georg Trakl, famous for his apocalyptic descriptions of World War I, looked on Hölderlin as a great innovator in experimenting with poetic language. In retrospect, the poet appeared as a forefather of literary modernism. 
+
+In 1918, a social revolution established a republic in Germany. In the future, while the country would pass between dictatorships and democracy, it would remain a republic. The political ideals of Hölderlin, which Hellingrath had pointed his audience to, attained a new significance for Germans in the republican era. Philosophers on both the political left and political right estimated Hölderlin as a prophet of their ideals. The nationalist philosopher Martin Heidegger spent the latter half of World War II lecturing on Hölderlin’s poems. Jewish communist intellectuals like Walter Benjamin and Theodor Adorno took Hölderlin’s love of nature and attempts at expressing natural scenes in poetic language as inspirations for their own critiques of modern capitalist civilization.
 
 {% include figure.html class="right" width="40%" caption="Philosopher Martin Heidegger, who spent much of his career interpreting Hölderlin's later work as a prophecy" image-path="scrollstory/images/martin-heidegger-philosopher.jpg" %}
 
@@ -126,7 +128,7 @@ The politically contradictory interpretations of the poet as a prophet extended 
 
 This reinterpretation of Hölderlin as a prophet across the political spectrum led to a reassessment of his late work as holding not only intellectual value but a national significance for German culture as a whole. While not every admirer agreed with Hellingrath’s interpretation of the poet, they ultimately drew on the work he had done to redeem the poet from historical obscurity. Though they continued to hold that he his extant workers justified retrospectively diagnosing him with catatonia, psychiatrists now had to concede that the poet's late work was aesthetically significant. Intellectuals no longer remembered Hölderlin as a madman and a failure, a man who produced low-quality works, but as a prophet of a world that came long after his death. The German government now treats Hölderlin as a cultural forefather of the entire Republic. By claiming his late work as a prophecy, the German literary public has transformed an impoverished and isolated man into a symbol of their world.[^note20]
 
-{% include figure.html class="middle" width="110%" caption="A statue of Hölderlin overlooking the Neckar river" image-path="scrollstory/images/holderlin-statue-neckar-river.jpg" %}
+{% include figure.html class="middle" width="110%" caption="A statue of Hölderlin overlooking the Neckar River" image-path="scrollstory/images/holderlin-statue-neckar-river.jpg" %}
 
 [^note5]: Wilhelm Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” in We Are Like Fire: Waiblinger and Hesse on Hölderlin, ed. and trans. Eric Miller (ELS Editions, 2007), p. 127.
 [^note6]: Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” p. 134.
