@@ -128,7 +128,7 @@ The politically contradictory interpretations of the poet as a prophet extended 
 
 This reinterpretation of Hölderlin as a prophet across the political spectrum led to a reassessment of his late work as holding not only intellectual value but a national significance for German culture as a whole. While not every admirer agreed with Hellingrath’s interpretation of the poet, they ultimately drew on the work he had done to redeem the poet from historical obscurity. Though they continued to hold that he his extant workers justified retrospectively diagnosing him with catatonia, psychiatrists now had to concede that the poet's late work was aesthetically significant. Intellectuals no longer remembered Hölderlin as a madman and a failure, a man who produced low-quality works, but as a prophet of a world that came long after his death. The German government now treats Hölderlin as a cultural forefather of the entire Republic. By claiming his late work as a prophecy, the German literary public has transformed an impoverished and isolated man into a symbol of their world.[^note20]
 
-{% include figure.html class="middle" width="110%" caption="A statue of Hölderlin overlooking the Neckar River" image-path="scrollstory/images/holderlin-statue-neckar-river.jpg" %}
+{% include figure.html class="middle" width="100%" caption="A statue of Hölderlin overlooking the Neckar River" image-path="scrollstory/images/holderlin-statue-neckar-river.jpg" %}
 
 [^note5]: Wilhelm Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” in We Are Like Fire: Waiblinger and Hesse on Hölderlin, ed. and trans. Eric Miller (ELS Editions, 2007), p. 127.
 [^note6]: Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” p. 134.
