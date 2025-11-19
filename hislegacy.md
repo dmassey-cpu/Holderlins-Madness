@@ -86,7 +86,7 @@ In this late era of his life, Hölderlin seemed to see his ideals as only being 
 
 ## Hölderlin as a Case Study
 {% include figure.html 
-class="right" 
+class="left" 
 width="48%" 
 caption="Karl Kahlbaum, the psychiatrist who coined the diagnosis of catatonia in 1874" 
 image-path="scrollstory/images/karl-kahlbaum-psychiatrist.jpeg" 
@@ -118,11 +118,11 @@ Hellingrath set to work compiling, dating, and publishing the poet’s work to r
 ## Hölderlin as a Prophet
 After salvaging Hölderlin’s late works and justifying them in nationalist terms for the German public, Norbert von Hellingrath succeeded at re-introducing the poet into intellectual discourse. Poets and philosophers began to draw on Hölderlin as an inspiration for their own attempts at addressing the problems they perceived in German society. The Austrian Expressionist poet Georg Trakl, famous for his apocalyptic descriptions of World War I, looked on Hölderlin as a great innovator in experimenting with poetic language. In retrospect, the poet appeared as a forefather of literary modernism. Philosophers on both the political left and political right estimated Hölderlin as a prophet of their ideals. The nationalist philosopher Martin Heidegger spent the latter half of World War II lecturing on Hölderlin’s poems. Jewish communist intellectuals like Walter Benjamin and Theodor Adorno took Hölderlin’s love of nature and attempts at expressing natural scenes in poetic language as inspirations for their own critiques of modern capitalist civilization.
 
-{% include figure.html class="right" width="33%" caption="Philosopher Martin Heidegger, who spent much of his career interpreting Hölderlin's later work as a prophecy" image-path="scrollstory/images/martin-heidegger-philosopher.jpg" %}
+{% include figure.html class="right" width="50%" caption="Philosopher Martin Heidegger, who spent much of his career interpreting Hölderlin's later work as a prophecy" image-path="scrollstory/images/martin-heidegger-philosopher.jpg" %}
 
 The politically contradictory interpretations of the poet as a prophet extended to the national scale as well. During the latter half of World War II, the Nazi regime often praised Hölderlin and his work as “pure,” using his poems as a source of consolation to a failing war effort. The Hölderlin Society printed poems to be sent with the supplies that were distributed to Wehrmacht soldiers on the Eastern Front. Pro-Soviet German Communists like playwright and poet Bertolt Brecht invoked Hölderlin as a revolutionary against the anti-communist nationalism of the Nazis. This reinterpretation of Hölderlin as a prophet across the political spectrum led to a reassessment of his late work as holding not only intellectual value but a national significance for German culture as a whole. While not every admir er agreed with Hellingrath’s interpretation of the poet, they ultimately drew on the work he had done to redeem the poet from historical obscurity. Hölderlin was no longer remembered as a madman and a failure, a man who produced low-quality works, but as a prophet of a world that came long after his death.[^note20]
 
-{% include figure.html class="right" width="33%" caption="Poet and playwright Bertolt Brecht, who claimed Hölderlin as a predecessor to German communism" image-path="scrollstory/images/bertolt-brecht-1.jpg" %}
+{% include figure.html class="right" width="50%" caption="Poet and playwright Bertolt Brecht, who claimed Hölderlin as a predecessor to German communism" image-path="scrollstory/images/bertolt-brecht-1.jpg" %}
 
 [^note5]: Wilhelm Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” in We Are Like Fire: Waiblinger and Hesse on Hölderlin, ed. and trans. Eric Miller (ELS Editions, 2007), p. 127.
 [^note6]: Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” p. 134.
