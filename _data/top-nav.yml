@@ -3,7 +3,7 @@
   url: "/hisworld"
 
 - title: "His Legacy"
-  url: "/hislegacy"
+  url: "scrollstory/hislegacy.md"
 
 - title: "Bibliography"
   url: "/bibliography"
