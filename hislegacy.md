@@ -1,13 +1,12 @@
-
 ---
-title: His Legacy
-author: Davis Diego Massey
+title: Hölderlin's Tower, Tübingen
+author: Photography
 layout: base
 date: 2025-07-21
 thumbnail: image-path="assets/images/holderlin-tower.jpg"
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
-header-image: image-path="scrollstory/images/holderlin-statue-neckar-river.jpg"
-header-title: Statue of Hölderlin
+header-image: image-path="assets/images/holderlin-tower.jpg"
+header-title: holderlin-tower.jpg
 header-position: 0px
 toc-section: piano
 geo: [44.600000, -110.500000]
@@ -16,18 +15,11 @@ tags:
   - music
 ---
 
-{% include figure.html 
-class="middle" 
-width="100%" 
-caption="Hölderlin's Tower, Tübingen" 
-image-path="assets/images/holderlin-tower.jpg" 
-%}
-
 # Hölderlin as a Madman
 After his 1807 discharge from the Tübingen University asylum, Hölderlin began living under the care of his admirer, the carpenter Ernst Zimmer. Zimmer housed the poet in a riverside tower that the carpenter had previously rented out to students of the local Tübingen University. The poet began to become something of a local attraction to the residents of the academic town. Students and admirers came to the riverfront tower that Hölderlin lived in to see the poet in his condition of madness. Some would ask him to write them poems as gifts, and he sometimes obliged. The writer Wilhelm Waiblinger was one such visitor, seeing Hölderlin often enough to get to know him. He wrote the most detailed initial account and analysis of Hölderlin’s madness, which he completed in 1828. Waiblinger believed that he could perceive the psychological basis for Hölderlin’s madness in his character itself: “You could stretch a point and locate his destiny in his unhappily fine spiritual organization. At length, under the pressure of  all too many disillusionments, malign events and melancholy convergences, it imploded.”[^note5]
 
 {% include figure.html 
-class="left" 
+class="right" 
 width="48%" 
 caption="Wilhelm Waiblinger, author of an influential account of Hölderlin's madness" 
 image-path="scrollstory/images/wilhelm_waiblinger.jpg" 
@@ -37,50 +29,50 @@ By refusing to compromise with the way of the world, Waiblinger believed, Hölde
 
 Though the decline of Hölderlin’s mental health became obvious with his long bouts of non-responsiveness after 1806, he had long written about Romantic retreats from a disappointing world. In 1799, he had concluded his poetic novel Hyperion by having the eponymous protagonist flee from Ottoman Imperial attacks on Greece to Germany. There, the submissiveness of the German people to despotic authority disgusted him enough that he decided to abandon society and become a hermit in the woods. While departing from the company of other people, Hyperion expressed his intention to reunite with nature, declaring: “we are all sprung from the same golden seed!”[^note10] Hölderlin continued to pursue similar themes in the works that he produced while under the care of Zimmer. The majority of his works from this time period cannot be dated with certainty, since Hölderlin neither dated nor published them, but they usually drew on personal experiences which continued throughout the entire period. For example, he penned the poem “The Merry Life” about the solo walks that he often took by the Neckar riverfront. He described these walks as soothing of his mental condition. It is possible that this sightseeing was a way for him to continue to live out his Romantic ideals after the rest of his former associates had left them behind in favor of middle class professional careers. The poem, translated to English, reads as follows:
 
-> “When I come to walk the meadow,/
-> Later, reach the field below,/
-> Still I am the tame, the pious,/
-> As by thorns uninjured go./
+> “When I come to walk the meadow,
+> Later, reach the field below,
+> Still I am the tame, the pious,
+> As by thorns uninjured go.
 >
-> In the wind my garment flutters/
-> While I gaily think upon/
-> What our inner life consists of/
-> Till its dissolution’s dawn./
+> In the wind my garment flutters
+> While I gaily think upon
+> What our inner life consists of
+> Till its dissolution’s dawn.
 >
-> Oh before this gentle image/
-> Where the green trees line the sky/
-> As before a tavern’s emblem/
-> Hardly I can just pass by/
-> For the peace on days all quiet/
-> Is true excellence, in my view;/
-> This you should not even ask me/
-> If I am to answer you./
+> Oh before this gentle image
+> Where the green trees line the sky
+> As before a tavern’s emblem
+> Hardly I can just pass by
+> For the peace on days all quiet
+> Is true excellence, in my view;
+> This you should not even ask me
+> If I am to answer you.
 >
-> But towards the lovely brook now/
-> For a pleasant path I peer/
-> Which, as in a fine apartment,/
-> Creeps through banks all wild and sheer,/
-> Where the footbridge runs across it,/
-> To the lovely woodland ways/
-> Where the breeze blows round the footbridge/
-> Upward happily I gaze./
+> But towards the lovely brook now
+> For a pleasant path I peer
+> Which, as in a fine apartment,
+> Creeps through banks all wild and sheer,
+> Where the footbridge runs across it,
+> To the lovely woodland ways
+> Where the breeze blows round the footbridge
+> Upward happily I gaze.
 >
-> Sitting on that hilltop yonder/
-> After noon I spend my time,/
-> And I hear the clock tower chime,/
-> Contemplation gives the heart a/
-> Peace, whatever bodes the while,/
-> And a soothing of the sorrows/
-> That our reason rhymes with guile./
+> Sitting on that hilltop yonder
+> After noon I spend my time,
+> And I hear the clock tower chime,
+> Contemplation gives the heart a
+> Peace, whatever bodes the while,
+> And a soothing of the sorrows
+> That our reason rhymes with guile.
 >
-> Dearest landscape! where the roadway/
-> Runs right through, all level, straight,/
-> Where the moon, the pale, is rising/
-> When the evening wind’s in spate,/
-> Where nature’s mind is very simple,/
-> Lofty mountains loom and shine,/
-> I go home at last, domestic,/
-> There to see golden wine.”/
+> Dearest landscape! where the roadway
+> Runs right through, all level, straight,
+> Where the moon, the pale, is rising
+> When the evening wind’s in spate,
+> Where nature’s mind is very simple,
+> Lofty mountains loom and shine,
+> I go home at last, domestic,
+> There to see golden wine.”
 [^note11]
 
 Throughout the poem, Hölderlin described a therapeutic role for his experiences of nature and artistic output. While describing the beginning of his nature walk, he wrote: “In the wind my garment flutters/While I gaily think upon/What our inner life consists of/Till its dissolution’s dawn.” He appeared to associate the gayness of the thought with the indulgence of inner life, while he followed that pleasure with the haunting thought of death’s inevitability. Hölderlin’s caretakers and associates described him as terrified of his own mortality. By placing an acknowledgement of his own finitude at the end of the first stanza, which describes the beginning of his walk, he made this worry into a guiding thread in the poem. The poem reinforces this reading in a later stanza, which says that “Contemplation gives the heart a/Peace, whatever bodes the while,/And a soothing of the sorrows/That our reason rhymes with guile.” This spells out the therapeutic function that united Hölderlin’s walks and writing. Both served as safe, comfortable settings for contemplation, freeing him from the worries and responsibilities of everyday life. While in quotidian life, he was troubled by the “sorrows” that “our reason rhymes with guile,” since it did not allow him to retreat from them, walking and writing allowed Hölderlin to forget his problems through the peaceful activity of contemplation. 
@@ -104,11 +96,14 @@ Though Hölderlin gave his own account of his condition in his late work, these 
 
 Across the rest of the 19th century, a more standardized system began to develop in many of the German states that had succeeded the Holy Roman Empire. In 1871, the Kingdom of Prussia oversaw the unification of a new German national state. As the intellectuals of the new state set to work building new professions as part of a growing national bureaucracy, clinical psychiatry began to grow in the university system of the Empire. In the remaining decades of the 19th century, they set to work producing a scientific consensus within the psychiatric profession by creating journals and using the earlier publications of psychiatrists as textbooks. Instead of relying on the individual analyses of symptoms that the alienists had practiced, psychiatrists like Karl Kahlbaum and Emil Kraepelin developed a system of standardized treatment based on diagnosing patients according to the patterns in their symptoms and treating them with methods that were consistent across patients. The work system of clinics adapted this diagnostic system to a complex division of labor that combined staff, doctors, and patients in an efficient national system of treatment. The system’s ability to achieve the same successful results each time helped the psychiatric professionals achieve the court system’s recognition of them as legitimate, giving them an expanded power to decide which members of society were in need of their expert care. 
 
-{% include figure.html class="right" width="50%" caption="Emil Kraepelin, a psychiatrist who helped build Germany's national psychiatric system in the late 19th century" image-path="scrollstory/images/emil-kraepelin-psychiatrist.jpg" %}
-
 A major part of this strategy of building consensus, and therefore juridicial legitimacy, was to engage with public opinion through publishing on cultural topics. Historian Eric Engstrom notes in Clinical Psychiatry in Imperial Germany: A History of Psychiatric Practice that insanity was addressed as a national problem in the discourse of late 19th century Germany in a “veritable flood of literature” that “inundated the book market as authors and publishers competed for readers' interest.”[^note13] Insanity meant many things to many people, from a problem of finances and status for the patients and their families to a problem of medical and scientific theory and practice for doctors and scientists. For the bourgeois public that psychiatrists were trying to win over, it meant a problem of madmen failing to pursue the ideal of self-cultivation and self-education and instead stagnating in their condition. 
 
-{% include figure.html class="left" width="50%" caption="Wilhelm Lange Eichbaum's Hölderlin: A Pathography (1909)" image-path="scrollstory/images/wilhelm-lange-eichbaum-psychiatrist.jpg" %}
+{% include juxtapose.html
+image1="scrollstory/images/emil-kraepelin-psychiatrist.jpgg"
+image2="scrollstory/images/wilhelm-lange-eichbaum-psychiatrist.jpg"
+caption="Left: Emil Kraepelin, a psychiatrist who helped build Germany's national psychiatric system in the late 19th century
+Right: Wilhelm Lange Eichbaum's Hölderlin: A Pathography (1909)"
+%}
 
 These concerns all informed the first comprehensive psychiatric analysis of Hölderlin and his work. The analysis, written by the University of Tübingen psychiatrist Wilhelm Lange-Eichbaum, was published as the book Hölderlin: A Pathography in 1909. Only non-medical writers had previously attempted to diagnose Hölderllin. Lange-Eichbaum identified Möbius’s 1901 article “Hölderlin’s Love Life,” which described the poet as suffering from dementia praecox, and C.F. van Vleuten’s 1906 article “The Mental Disorder of Friedrich Hölderlin,” which expanded the diagnosis to dementia praecox cataconica, as the only useful medical judgements of Hölderlin’s condition. By pointing to dementia praecox and catatonia, both of these analyses drew on diagnostic language developed by psychiatrists Karl Kahlbaum and Emil Kraepelin. Kahlbaum had interpreted this condition, characterized by a patient’s non-responsiveness and muscular tension, as both psychological and neurological, lacking a singular cause. Kraepelin, on the other hand, believed that it was a result of a terminal weakness of the will that would inevitably end in dementia.[^note14] In the case of Hölderlin, Lange-Eichbaum believed that all other assessments of the poet’s mental illness fell short of the standards of psychiatric diagnosis by interpreting “an undoubtedly organic brain disease, catatonia, as arising directly from psychic causes, e.g., from grief, from disappointments, from ‘mental pain’—a view whose erroneousness cannot be emphasized too strongly.”[^note15]
 
@@ -123,17 +118,11 @@ Hellingrath set to work compiling, dating, and publishing the poet’s work to r
 ## Hölderlin as a Prophet
 After salvaging Hölderlin’s late works and justifying them in nationalist terms for the German public, Norbert von Hellingrath succeeded at re-introducing the poet into intellectual discourse. Poets and philosophers began to draw on Hölderlin as an inspiration for their own attempts at addressing the problems they perceived in German society. The Austrian Expressionist poet Georg Trakl, famous for his apocalyptic descriptions of World War I, looked on Hölderlin as a great innovator in experimenting with poetic language. In retrospect, the poet appeared as a forefather of literary modernism. Philosophers on both the political left and political right estimated Hölderlin as a prophet of their ideals. The nationalist philosopher Martin Heidegger spent the latter half of World War II lecturing on Hölderlin’s poems. Jewish communist intellectuals like Walter Benjamin and Theodor Adorno took Hölderlin’s love of nature and attempts at expressing natural scenes in poetic language as inspirations for their own critiques of modern capitalist civilization.
 
-{% include figure.html class="right" width="50%" caption="Philosopher Martin Heidegger, who spent much of his career interpreting Hölderlin's later work as a prophecy" image-path="scrollstory/images/martin-heidegger-philosopher.jpg" %}
+{% include figure.html class="right" width="33%" caption="Philosopher Martin Heidegger, who spent much of his career interpreting Hölderlin's later work as a prophecy" image-path="scrollstory/images/martin-heidegger-philosopher.jpg" %}
 
-The politically contradictory interpretations of the poet as a prophet extended to the national scale as well. 
+The politically contradictory interpretations of the poet as a prophet extended to the national scale as well. During the latter half of World War II, the Nazi regime often praised Hölderlin and his work as “pure,” using his poems as a source of consolation to a failing war effort. The Hölderlin Society printed poems to be sent with the supplies that were distributed to Wehrmacht soldiers on the Eastern Front. Pro-Soviet German Communists like playwright and poet Bertolt Brecht invoked Hölderlin as a revolutionary against the anti-communist nationalism of the Nazis. This reinterpretation of Hölderlin as a prophet across the political spectrum led to a reassessment of his late work as holding not only intellectual value but a national significance for German culture as a whole. While not every admir er agreed with Hellingrath’s interpretation of the poet, they ultimately drew on the work he had done to redeem the poet from historical obscurity. Hölderlin was no longer remembered as a madman and a failure, a man who produced low-quality works, but as a prophet of a world that came long after his death.[^note20]
 
-During the latter half of World War II, the Nazi regime often praised Hölderlin and his work as “pure,” using his poems as a source of consolation to a failing war effort. The Hölderlin Society printed poems to be sent with the supplies that were distributed to Wehrmacht soldiers on the Eastern Front. 
-
-{% include figure.html class="left" width="50%" caption="Poet and playwright Bertolt Brecht, who claimed Hölderlin as a predecessor to German communism" image-path="scrollstory/images/bertolt-brecht-1.jpg" %}
-
-Pro-Soviet German Communists like playwright and poet Bertolt Brecht invoked Hölderlin as a revolutionary against the anti-communist nationalism of the Nazis. Rather than an Aryan seer, they interpreted Hölderlin as a forefather of their own movement and the hope of a socialist republic in Germany. 
-
-This reinterpretation of Hölderlin as a prophet across the political spectrum led to a reassessment of his late work as holding not only intellectual value but a national significance for German culture as a whole. While not every admirer agreed with Hellingrath’s interpretation of the poet, they ultimately drew on the work he had done to redeem the poet from historical obscurity. Hölderlin was no longer remembered as a madman and a failure, a man who produced low-quality works, but as a prophet of a world that came long after his death.[^note20]
+{% include figure.html class="right" width="33%" caption="Poet and playwright Bertolt Brecht, who claimed Hölderlin as a predecessor to German communism" image-path="scrollstory/images/bertolt-brecht-1.jpg" %}
 
 [^note5]: Wilhelm Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” in We Are Like Fire: Waiblinger and Hesse on Hölderlin, ed. and trans. Eric Miller (ELS Editions, 2007), p. 127.
 [^note6]: Waiblinger, “Friedrich Hölderlin’s Life, Poetry and Madness,” p. 134.
