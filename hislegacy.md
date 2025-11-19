@@ -6,11 +6,14 @@ layout: base
 date: 2025-07-21
 thumbnail: image-path="assets/images/holderlin-tower.jpg"
 summary: This essays demonstrates all the different components you might use on your page. Of course you don't need to use them all, but it's a good starting point if you feel comfortable with code snippets and deleting what you don't need.
+header-image: image-path="scrollstory/images/holderlin-statue-neckar-river.jpg"
+header-title: Statue of Hölderlin
+header-position: 0px
 toc-section: piano
 geo: [44.600000, -110.500000]
 placename: Hölderlin's Tower, Tübingen
 tags:
-  - history
+  - music
 ---
 
 {% include figure.html 
