@@ -14,6 +14,7 @@ placename: Hölderlin's Tower, Tübingen
 tags:
   - music
 ---
+
 The reception of Hölderlin's work was conditioned by the rise of bureaucracy, commerce, governance based on sovereignty over a territory rather than personal obligations, the rule of law, and nationalism in German-speaking Europe. By the time that the Kingdom of Prussia headed the formation of a German national state in 1871, the Holy Roman Empire of Hölderlin's life and the imagined Germany of his hopes seemed distant and cloudy. As a professional middle class found careers in the bureaucracy, they began to enforce their own expectations of behavior on people and evaluate their quality according to their conformity to these mores of self-responsibility and respectability. They first subjected Hölderlin's legacy to the scrutiny of middle class morality during his lifetime.
 
 # Hölderlin as a Madman
