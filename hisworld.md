@@ -5,7 +5,7 @@ layout: base
 
 # Hölderlin and His World 
 
-{% include figure.html class="right" width="33%" caption="The Tennis Court Oath (1792-1794) by Jacques Louis-David" image-path="scrollstory/images/tennis-court-oath-jacques-louis-david-1794.jpg" %}
+{% include figure.html class="right" width="100%" caption="The Tennis Court Oath (1792-1794) by Jacques Louis-David" image-path="scrollstory/images/tennis-court-oath-jacques-louis-david-1794.jpg" %}
 
 To grasp Hölderlin’s work, it is necessary to think about the ‘big themes’ of the time and place he was producing it in. His youthful world of Tübingen in the 1790s was shaped most of all by the events and aftermath of the French Revolution in Europe, which he enthusiastically offered his intellectual support to. Germanist historian James Sheehan described Hölderlin’s interpretation of the Revolution through the lens of a Greco-Christian idealism as illustrating “the way in which German intellectuals translated their feelings about the revolution into familiar idioms of moral reform and spiritual renewal.”[^note4] The academic system had been growing in the late-18th century Holy Roman Empire as a means to staff the expanding civil service, which aided the monarchy in managing an increasingly complex and commercialized society. Many young academics, inspired by the Enlightenment, theological rationalism, and the revivalism of the Pietist movement, looked for higher ideals to reinvigorate what they saw as the backwards society of the Empire. For many, the French Revolution offered a new beginning in its ideals of Liberty, Fraternity, and Equality.
 
