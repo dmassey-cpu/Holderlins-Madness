@@ -10,6 +10,7 @@ Primary Sources:
 - Hölderlin, Friedrich. Essays and Letters. Edited and translated by Jeremy Adler and Charlie Louth. Penguin Books, 2009.
 - --. Hyperion and Selected Poems. Edited by Eric L. Santner. Translated by Willard R. Trask. Continuum, 1990.
 - --. Selected Poems and Fragments. Edited by Jeremy Adler. Translated by Michael Hamburger. Penguin Books, 1998.
+- Jaspers, Karl. Strindberg and van Gogh: An Attempt at a Pathographic Analysis with Reference to Parallel Cases of Swedenborg and Hölderlin. Translated by Oskar Grunow and David Woloshin. University of Arizona Press, 1977.
 - Lange-Eichbaum, Wilhelm. Hölderlin; eine Pathographie. Stuttgart, Germany, 1909.
 - Waiblinger, Wilhelm, and Hermann Hesse. We Are Like Fire: Waiblinger and Hesse on Hölderlin, edited and translated by Eric Miller. ELS Editions, 2007.
 
