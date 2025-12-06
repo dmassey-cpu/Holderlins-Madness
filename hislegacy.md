@@ -23,7 +23,7 @@ After his 1807 discharge from the Tübingen University asylum, Hölderlin began 
 {% include figure.html 
 class="right" 
 width="48%" 
-caption=Artwork by Carl Spitzweg" 
+caption="Artwork by Carl Spitzweg" 
 image-path="scrollstory/images/carl-spitzweg-poor-poet.jpg" 
 %}
 
@@ -84,7 +84,7 @@ Hölderlin directly addressed the audience of the poem only once. After describi
 {% include figure.html 
 class="left" 
 width="55%" 
-caption=Artwork by Caspar David Friedrich" 
+caption="Artwork by Caspar David Friedrich" 
 image-path="scrollstory/images/caspar-david-friedrich-hills.jpg" 
 %}
 
