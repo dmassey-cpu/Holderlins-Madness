@@ -94,7 +94,9 @@ caption="Artwork by Caspar David Friedrich"
 image-path="scrollstory/images/caspar-david-friedrich-hills.jpg" 
 %}
 
-The poem linked the therapeutic practice of contemplation with the power of nature. Hölderlin described the landscape in terms that began at a small scale, with meadows and fields, before unfolding into the entire landscape and the night sky. Throughout the poem, Hölderlin attributed nurturing characteristics to nature. He began the poem with the lines: “When I come to walk the meadow,/Later, reach the field below,/Still I am the tame, the pious,/As by thorns uninjured go.” By following his description of himself as “the tame, the pious” with his description of passing by thorns “uninjured,” he seemed to imply a link between his inner state and the outer gentleness of nature when he passed through the landscape. 
+The poem linked the therapeutic practice of contemplation with the power of nature. Hölderlin described the landscape in terms that began at a small scale, with meadows and fields, before unfolding into the entire landscape and the night sky. 
+
+Throughout the poem, Hölderlin attributed nurturing characteristics to nature. He began the poem with the lines: “When I come to walk the meadow,/Later, reach the field below,/Still I am the tame, the pious,/As by thorns uninjured go.” By following his description of himself as “the tame, the pious” with his description of passing by thorns “uninjured,” he seemed to imply a link between his inner state and the outer gentleness of nature when he passed through the landscape. 
 
 Throughout the stanzas, he used peaceful imagery of homely places to describe the sights on his walk, such as “a tavern’s emblem,” “a fine apartment,” and the conclusion of the evening with “golden wine.” Each scene he described of his enjoying the landscape was tied to images of comfort, safety, and respite. He associated the character of respite in the landscape with the fact that it is a setting where “nature’s mind is very simple.” The soothing function he attributed to contemplation was made possible by the gentleness and simplicity of the landscape that he walked through. While the bustling life of the quotidian and the responsibility to conduct oneself rationally brought complications to things, the landscape offered respite to the poet’s inner life in its simplicity.
 
@@ -104,12 +106,14 @@ In this late era of his life, Hölderlin seemed to see his ideals as only being 
 ## Hölderlin as a Case Study
 {% include figure.html 
 class="right" 
-width="50%" 
+width="55%" 
 caption="Artwork by Francisco Goya" 
 image-path="scrollstory/images/francisco-goya-caprichos.jpg" 
 %}
 
-Though Hölderlin gave his own account of his condition in his late work, these poems were relegated to obscurity for the remainder of the 19th century. Waiblinger’s account of Hölderlin’s madness became the most well-known source of the poet’s later life. Waiblinger’s interpretation of the poet’s condition influenced how later generations of German intellectuals received the poet’s work. Waiblinger had a low estimation of Hölderlin’s late poetry, more or less dismissing it as the inferior output of a wrecked man. His assessment was repeated by many of the intellectuals who drew on his account of Hölderlin’s condition. While Hölderlin had experienced a very early form of the asylum system, he had been a patient in a time when the treatment of mental health in Germany was decentralized, rural, and dominated by the ad hoc practices of middle-class alienists. After failing to cure him, and on his own personal authority, the alienist Autenrieth released Hölderlin as a hopeless case and a doomed man. 
+Though Hölderlin gave his own account of his condition in his late work, these poems were relegated to obscurity for the remainder of the 19th century. Waiblinger’s account of Hölderlin’s madness became the most well-known source of the poet’s later life. Waiblinger’s interpretation of the poet’s condition influenced how later generations of German intellectuals received the poet’s work. 
+
+Waiblinger had a low estimation of Hölderlin’s late poetry, more or less dismissing it as the inferior output of a wrecked man. His assessment was repeated by many of the intellectuals who drew on his account of Hölderlin’s condition. While Hölderlin had experienced a very early form of the asylum system, he had been a patient in a time when the treatment of mental health in Germany was decentralized, rural, and dominated by the ad hoc practices of middle-class doctors. After failing to cure him through purgatives and moral treatment, and on his own personal authority, the Dr. Autenrieth released Hölderlin as a hopeless case and a doomed man. 
 
 Across the rest of the 19th century, a more standardized system began to develop in many of the German states that had succeeded the Holy Roman Empire. In 1871, the Kingdom of Prussia oversaw the unification of a new German national state. As the intellectuals of the new state set to work building new professions as part of a growing national bureaucracy, clinical psychiatry began to grow in the university system of the Empire. In the remaining decades of the 19th century, they set to work producing a scientific consensus within the psychiatric profession by creating journals and using the earlier publications of psychiatrists as textbooks. 
 
@@ -135,7 +139,9 @@ caption="Norbert von Hellingrath, the scholar who published the first complete e
 image-path="scrollstory/images/norbert-von-hellingrath.jpg" 
 %}
 
-Hellingrath set to work compiling, dating, and publishing the poet’s work to rescue him from obscurity. For the first time, he began to publish all of Hölderlin’s late works, which few had previously offered much credence to. Hellingrath did not see the late works as discounted by the poet’s madness. In a 1915 address to the public titled “Hölderlin’s Madness,” he argued that the poet’s life and work must rather be thought of as an organic, inseparable totality. Madness was the culmination of his destiny, and his destiny was to channel the spiritual powers of his muses. Drawing on concepts which were current in George’s circle, Hellingrath ascribed a mystical significance to Hölderlin’s madness: “Life and work behave like the voice and gesture of a speaker: soon the words, soon the gesture seem to us to say more, life is completely filled and absorbed by the work, and the work is life.”[^note19] 
+Hellingrath set to work compiling, dating, and publishing the poet’s work to rescue him from obscurity. For the first time, he began to publish all of Hölderlin’s late works, which few had previously offered much credence to. Hellingrath did not see the late works as discounted by the poet’s madness.
+
+In a 1915 address to the public titled “Hölderlin’s Madness,” he argued that the poet’s life and work must rather be thought of as an organic, inseparable totality. Madness was the culmination of his destiny, and his destiny was to channel the spiritual powers of his muses. Drawing on concepts which were current in George’s circle, Hellingrath ascribed a mystical significance to Hölderlin’s madness: “Life and work behave like the voice and gesture of a speaker: soon the words, soon the gesture seem to us to say more, life is completely filled and absorbed by the work, and the work is life.”[^note19] 
 
 Hellingrath interpreted the poet as a conduit for the pagan gods of Ancient Greece and Germany. Hölderlin’s madness was part of his message to Germany rather than a result of physical or spiritual deficiency. His last poems were not merely the scribblings of a madman, but experimentations in a new language and in a way of returning to nature. Hellingrath often interpreted Hölderlin in nationalist terms, believing that he had transmitted a message of the destiny of the German people in his poems. This nationalist interpretation of the poet’s works served to re-legitimize the late poems for many in the German public, who could now read and interpret the texts for themselves.
 
@@ -146,8 +152,8 @@ After salvaging Hölderlin’s late works and justifying them in nationalist ter
 In 1918, a social revolution established a republic in Germany. In the future, while the country would pass between dictatorships and democracy, it would remain a republic. The political ideals of Hölderlin, which Hellingrath had pointed his audience to, attained a new significance for Germans in the republican era. Philosophers on both the political left and political right estimated Hölderlin as a prophet of their ideals. The nationalist philosopher Martin Heidegger spent the latter half of World War II lecturing on Hölderlin’s poems. Jewish communist intellectuals like Walter Benjamin and Theodor Adorno took Hölderlin’s love of nature and attempts at expressing natural scenes in poetic language as inspirations for their own critiques of modern capitalist civilization.
 
 {% include figure.html 
-class="left" 
-width="55%" 
+class="right" 
+width="60%" 
 caption="Artwork by Franz von Stuck" 
 image-path="scrollstory/images/franz-von-stuck-prophet.jpg" 
 %}
