@@ -23,8 +23,8 @@ After his 1807 discharge from the Tübingen University asylum, Hölderlin began 
 {% include figure.html 
 class="right" 
 width="48%" 
-caption="Wilhelm Waiblinger, author of an influential account of Hölderlin's madness" 
-image-path="scrollstory/images/wilhelm_waiblinger.jpg" 
+caption=Artwork by Carl Spitzweg" 
+image-path="scrollstory/images/carl-spitzweg-poor-poet.jpg" 
 %}
 
 By refusing to compromise with the way of the world, Waiblinger believed, Hölderlin had finally snapped when the disappointments of European politics and his personal life overwhelmed him. For evidence of the poet’s madness, Waiblinger noted of his physiognomy: “You observe the desolating traces of mental illness in the cheeks, the mouth, the nose, and above the eyes (where there appears a deep painful crease). You notice with regret and sadness the convulsion that shivers on occasion through his whole face, that causes his shoulders to shrug sharply, and that makes his hands and fingers inordinately twitchy.”[^note6] The poet would greet people with excessive formality, his manners giving off “an aura of rigidity.”[^note7] He estimated Hölderlin in his tower as basically a shell of a person, suffering “a condition not of lunacy so much as weakness, and everything with the appearance of unreason that he manifests is a consequence of spiritual and corporeal exhaustion.”[^note8] Waiblinger claimed that Hölderlin’s madness had led to a sharp decline in the frequency and quality of his writing, leaving him incapable of writing anything except for brief fragments of poems. Waiblinger believed that the poet’s condition stemmed from his fear of death, arguing that Hölderlin’s condition was the result of a certain weakness of will and inability to go on with the stresses of everyday life. He described Hölderlin as often agitated by his visitors, demonstrating an “aversion to even hazarding the attempt, to acknowledging another person.”[^note9]
@@ -81,6 +81,13 @@ Throughout the poem, Hölderlin described a therapeutic role for his experiences
 
 Hölderlin directly addressed the audience of the poem only once. After describing his enjoyment of the treeline, he remarked: “For the peace on days all quiet/Is true excellence, in my view;/This you should not even ask me/If I am to answer you.” The “you” he addressed seems to be personally familiar, reinforced by the fact that he uses the familiar and singular “du” in the original German. The “you” was likely someone who asks him about his thoughts often, since he offered an answer before they could even ask the expected question of what he believed true excellence is. It is possible that the singular “you” may refer to Ernest Zimmer, Hölderlin’s caretaker, or one of his visitors. That Hölderlin’s ideal was for a quiet peace reinforces the text’s fixation on the poet’s inner contemplation. 
 
+{% include figure.html 
+class="left" 
+width="55%" 
+caption=Artwork by Caspar David Friedrich" 
+image-path="scrollstory/images/caspar-david-friedrich-hills.jpg" 
+%}
+
 The poem linked the therapeutic practice of contemplation with the power of nature. Hölderlin described the landscape in terms that began at a small scale, with meadows and fields, before unfolding into the entire landscape and the night sky. Throughout the poem, Hölderlin attributed nurturing characteristics to nature. He began the poem with the lines: “When I come to walk the meadow,/Later, reach the field below,/Still I am the tame, the pious,/As by thorns uninjured go.” By following his description of himself as “the tame, the pious” with his description of passing by thorns “uninjured,” he seemed to imply a link between his inner state and the outer gentleness of nature when he passed through the landscape. Throughout the stanzas, he used peaceful imagery of homely places to describe the sights on his walk, such as “a tavern’s emblem,” “a fine apartment,” and the conclusion of the evening with “golden wine.” Each scene he described of his enjoying the landscape was tied to images of comfort, safety, and respite. He associated the character of respite in the landscape with the fact that it is a setting where “nature’s mind is very simple.” The soothing function he attributed to contemplation was made possible by the gentleness and simplicity of the landscape that he walked through. While the bustling life of the quotidian and the responsibility to conduct oneself rationally brought complications to things, the landscape offered respite to the poet’s inner life in its simplicity.
 
 In this late era of his life, Hölderlin seemed to see his ideals as only being realizable when he was left to himself. While wrote of the landscape of Tübingen as soothing his worries, Waiblinger’s account reveals that he found the stress and intensity of being observed to be upsetting. This resonates with a clinical phenomenon that historian Ann Goldberg describes in her study Sex, Religion and the Making of Modern Madness: The Eberbach Asylum and German Society, 1815-1849. Christian peasant patients at the Eberbach asylum drew on the strength of their religious convictions to resist the authority of the doctors. Rather than cooperating, they retreated into the inner sanctum of a spiritual relationship with God and found “an empowering set of tools to resist worldly authority.”[^note12] Though he did not come from a peasant background, Hölderlin’s aesthetic ideals were tied with his religious convictions, which were a mix of his family’s Pietist Christianity and the Hellenic paganism that he admired so strongly. Though he was no longer held as a patient in an asylum, he was still under observation as a madman. Like the patients of Eberbach, he was reinvigorated when he could live according to his ideals instead of being forced into the role of either a madman or a model patient for the people around him. 
@@ -89,9 +96,9 @@ In this late era of his life, Hölderlin seemed to see his ideals as only being 
 ## Hölderlin as a Case Study
 {% include figure.html 
 class="right" 
-width="48%" 
-caption="Karl Kahlbaum, the psychiatrist who coined the diagnosis of catatonia in 1874" 
-image-path="scrollstory/images/karl-kahlbaum-psychiatrist.jpeg" 
+width="50%" 
+caption="Artwork by Francisco Goya" 
+image-path="scrollstory/images/francisco-goya-caprichos.jpg" 
 %}
 
 Though Hölderlin gave his own account of his condition in his late work, these poems were relegated to obscurity for the remainder of the 19th century. Waiblinger’s account of Hölderlin’s madness became the most well-known source of the poet’s later life. Waiblinger’s interpretation of the poet’s condition influenced how later generations of German intellectuals received the poet’s work. Waiblinger had a low estimation of Hölderlin’s late poetry, more or less dismissing it as the inferior output of a wrecked man. His assessment was repeated by many of the intellectuals who drew on his account of Hölderlin’s condition. While Hölderlin had experienced a very early form of the asylum system, he had been a patient in a time when the treatment of mental health in Germany was decentralized, rural, and dominated by the ad hoc practices of middle-class alienists. After failing to cure him, and on his own personal authority, the alienist Autenrieth released Hölderlin as a hopeless case and a doomed man. 
@@ -122,7 +129,12 @@ After salvaging Hölderlin’s late works and justifying them in nationalist ter
 
 In 1918, a social revolution established a republic in Germany. In the future, while the country would pass between dictatorships and democracy, it would remain a republic. The political ideals of Hölderlin, which Hellingrath had pointed his audience to, attained a new significance for Germans in the republican era. Philosophers on both the political left and political right estimated Hölderlin as a prophet of their ideals. The nationalist philosopher Martin Heidegger spent the latter half of World War II lecturing on Hölderlin’s poems. Jewish communist intellectuals like Walter Benjamin and Theodor Adorno took Hölderlin’s love of nature and attempts at expressing natural scenes in poetic language as inspirations for their own critiques of modern capitalist civilization.
 
-{% include figure.html class="right" width="40%" caption="Philosopher Martin Heidegger, who spent much of his career interpreting Hölderlin's later work as a prophecy" image-path="scrollstory/images/martin-heidegger-philosopher.jpg" %}
+{% include figure.html 
+class="left" 
+width="55%" 
+caption="Artwork by Franz von Stuck" 
+image-path="scrollstory/images/franz-von-stuck-prophet.jpg" 
+%}
 
 The politically contradictory interpretations of the poet as a prophet extended to the national scale as well. During the latter half of World War II, the Nazi regime often praised Hölderlin and his work as “pure,” using his poems as a source of consolation to a failing war effort. The Hölderlin Society printed poems to be sent with the supplies that were distributed to Wehrmacht soldiers on the Eastern Front. At the same time, pro-Soviet German Communists like playwright and poet Bertolt Brecht invoked Hölderlin as a revolutionary against the anti-communist nationalism of the Nazis. Both Nazis and anti-fascists sought to claim Hölderlin as one of them.[^note20]
 
