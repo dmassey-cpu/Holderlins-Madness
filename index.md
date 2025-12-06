@@ -28,7 +28,7 @@ Autenrieth often used restraints on his patients limbs and faces, but due to the
 
 {% include figure.html
   class="left"
-  width="70%"
+  width="85%"
   caption="Artwork by Caspar David Friedrich"
   image-path="scrollstory/images/caspar-david-friedrich-tree.jpg"
 %}
