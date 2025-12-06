@@ -15,9 +15,9 @@ Primary Sources:
 - Waiblinger, Wilhelm, and Hermann Hesse. We Are Like Fire: Waiblinger and Hesse on Hölderlin, edited and translated by Eric Miller. ELS Editions, 2007.
 
 Secondary Sources: 
+- Bassermann-Jordan, Gabriele von. “‘Wenn Dunkel Mir Ist Der Sinn,/Den Kunst Und Sinnen Hat Schmerzen/Gekostet von Anbeginn’ (‘When Dark Are My Mind and Heart/Which Paid from the Beginning/In Grief for Thought and Art’): Hölderlin in the ‘Hölderlin Tower’—Contemporary and Modern Diagnoses of His Illness, and Literary (Self-)Therapy.” Humanities 14, no. 101 (2025). https://doi.org/10.3390/h14050101.
 - Constantine, David. Hölderlin. Clarendon Press, 1988.
 - Engstrom, Eric J. Clinical Psychiatry in Imperial Germany: A History of Psychiatric Practice. Cornell University Press, 2004.
 - Goldberg, Ann. Sex, Religion, and the Making of Modern Madness: The Eberbach Asylum and German Society, 1815-1849. Oxford University Press, 1999.
 - Savage, Robert, ed. Hölderlin After the Catastrophe: Heidegger, Adorno, Brecht. Camden House, 2008.
-- Sheehan, James J. German History, 1770-1866. Oxford University Press, 1990.
 - Shorter, Edward, and Max Fink. The Madness of Fear: A History of Catatonia. Oxford University Press, 2018.
