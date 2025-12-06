@@ -26,6 +26,13 @@ In 1806, Hölderlin was admitted to the care of University of Tübingen doctor J
 
 Autenrieth often used restraints on his patients limbs and faces, but due to the partial loss of records from his stay, we cannot be certain if he used these on Hölderlin. The remaining medical records show that Autenrieth used a regimen intended to treat physical causes for Hölderlin’s illness. The clinical staff gave belladonna leaves to sedate Hölderlin, mercury to purge his body through diarrhea, and aloe to clear out his gastric system. Autenrieth also used disciplinary measures to teach Hölderlin to work productively and be obedient. Of his therapeutic treatments for the mentally ill, the doctor said that he aimed to make a patient “as an irrational animal, obey the reason of another.”[^note6] While challenging their delusions with rational arguments, Autenrieth used moral treatments like chores in the clinic to try to make them learn how to be self-dependent and self-responsible. When Hölderlin cooperated, Autenrieth rewarded him with sightseeing walks into neighboring fields. 
 
+{% include figure.html
+  class="left"
+  width="70%"
+  caption="Artwork by Caspar David Friedrich"
+  image-path="scrollstory/images/caspar-david-friedrich-tree.jpg"
+%}
+
 By 1807, Autenrieth discharged Hölderlin as incurable and gave him only 3 years to live. The doctor believed that, with the gastric and moral treatments having failed to cure him, there was no other option left for the poet. A local carpenter who admired Hölderlin, Ernst Zimmer, took him under his care and allowed him to live in a riverfront tower that he rented out to students. Zimmer reported to Hölderlin’s mother that he often suffered from irritability, insomnia, and long periods of apathetic unresponsiveness to the people around him. 
 
 Students from the local university and admirers of his poetry often visited him, but he either ignored them or spoke to them in a cryptic way. He addressed his visitors with extremely formal language, addressing them as if they were royals, and became agitated when they did not return the favor. They reported that he often scrunched up his face as if under extreme mental duress, used French interspersed with German while speaking to them, and was easily frightened by any noises. He continued to write poetry on scraps of paper, take walks by the local Neckar River, and write letters to his family, who left him to the care of Zimmer. Hölderlin gave some insight into what he was thinking about in one undated letter to his mother, expressing thankfulness to God for allowing him to live to the present and writing: “I hope perhaps to continue my life without dangers and utter doubt.”[^note7]
