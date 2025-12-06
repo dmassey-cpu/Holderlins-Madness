@@ -44,7 +44,7 @@ What modern historians can know about Hölderlin and his mental condition is sha
 [^note1]: Friedrich Hölderlin to Susette Gontard, November 1799, in Friedrich Hölderlin, Essays and Letters, ed. and trans. Jeremy Adler and Charlie Louth (Penguin Books, 2009), p. 214. 
 [^note2]: Friedrich Hölderlin to Johanna Christiana Gok, 16 November 1799, in Friedrich Hölderlin, Essays and Letters, ed. and trans. Jeremy Adler and Charlie Louth (Penguin Books, 2009), p. 217.
 [^note3]: Quoted in David Constantine, Hölderlin (Clarendon Press, 1988), p. 381.
-[^note4] Quoted in Gabriele von Bassermann-Jordan, “‘Wenn Dunkel Mir Ist Der Sinn,/Den Kunst Und Sinnen Hat Schmerzen/Gekostet von Anbeginn’ (‘When Dark Are My Mind and Heart/Which Paid from the Beginning/In Grief for Thought and Art’): Hölderlin in the ‘Hölderlin Tower’—Contemporary and Modern Diagnoses of His Illness, and Literary (Self-)Therapy,” Humanities 14, no. 101 (2025), p. 3.
+[^note4] Quoted in Gabriele von Bassermann-Jordan, “‘Wenn Dunkel Mir Ist Der Sinn,/Den Kunst Und Sinnen Hat Schmerzen/Gekostet von Anbeginn’ (‘When Dark Are My Mind and Heart/Which Paid from the Beginning/In Grief for Thought and Art’): Hölderlin in the ‘Hölderlin Tower': Contemporary and Modern Diagnoses of His Illness, and Literary (Self-)Therapy,” Humanities 14, no. 101 (2025), p. 3.
 [^note5] Quoted in Bassermann-Jordan, “‘When Dark Are My Mind and Heart,’” p. 4.
 [^note6] Quoted in Bassermann-Jordan, “‘When Dark Are My Mind and Heart,’” p. 4.
 [^note7] Friedrich Hölderlin to Johanna Christiana Gok, in Friedrich Hölderlin, Essays and Letters, ed. and trans. Jeremy Adler and Charlie Louth (Penguin Books, 2009), p. 268. 
